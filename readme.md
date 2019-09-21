@@ -22,4 +22,5 @@ __Notice__: AdminLTE 3 version was not released officially. At the time of writi
 
 Basically, feel free to use and re-use any way you want.
 
+Cheers
 --
